@@ -1,6 +1,6 @@
 # midtermstiw2044myshop
 
-STIW2044 A202 Midterm exam task - Muhammad Danial Akmal b. Rosli (273046)
+STIW2044 A202 Midterm exam task - Muhammad Danial Akmal b. Rosli (273046).
 
 ## Getting Started
 
